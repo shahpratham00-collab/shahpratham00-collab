@@ -50,9 +50,7 @@
 - Auto-switches between Ollama (local) and HuggingFace (cloud)
 - Deployed live on Streamlit Cloud
 
-🔗 🔗 [Live App](https://rag-job-application-assistant-snwzr5zwdf8throdarxizd.streamlit.app/) ·
-[GitHub Repo](https://github.com/shahpratham00-collab/rag-job-application-assistant)
-
+🔗  [Live App](https://rag-job-application-assistant-snwzr5zwdf8throdarxizd.streamlit.app/) · [GitHub Repo](https://github.com/shahpratham00-collab/rag-job-application-assistant)
 ---
 
 ### 🏭 Industrial Defect Detection CNN
@@ -73,7 +71,7 @@
 - 91% accuracy on multi-class sentiment classification
 - Deployed as interactive Streamlit web app
 
-🔗 [Live App](https://defect-detection-cnn-cykjxqqen4gqptgmeequad.streamlit.app/) · [GitHub Repo](https://github.com/shahpratham00-collab)
+🔗 [Live App](https://sentiment-analyser-nlp-m5wbhmnnfoijsvapc24zft.streamlit.app/) · [GitHub Repo](https://github.com/shahpratham00-collab)
 
 ---
 
