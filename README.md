@@ -42,7 +42,7 @@
 
 ## 🎯 Featured Projects
 
-### 🎯 RAG Job Application Assistant
+ 🎯 RAG Job Application Assistant
 > Paste a job description + CV → get a tailored cover letter, match score & skills gap analysis
 
 - Built end-to-end RAG pipeline using LangChain and Llama3 via Ollama
