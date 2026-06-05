@@ -50,7 +50,7 @@
 - Auto-switches between Ollama (local) and HuggingFace (cloud)
 - Deployed live on Streamlit Cloud
 
-🔗 [Live App]([https://rag-job-application-assistant.streamlit.app](https://defect-detection-cnn-cykjxqqen4gqptgmeequad.streamlit.app/)) · [GitHub Repo](https://github.com/shahpratham00-collab/rag-job-application-assistant)
+🔗 [Live App](https://share.streamlit.io/) · [GitHub Repo](https://github.com/shahpratham00-collab/rag-job-application-assistant)
 
 ---
 
