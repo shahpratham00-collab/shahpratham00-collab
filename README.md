@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratham Shah 👋</h1>
 
 <p align="center">
-  <b>MSc Artificial Intelligence & Data Science</b> — Nottingham Trent University<br>
+  <b>MSc Artificial Intelligence</b> — Nottingham Trent University | Seeking 12-Month Industrial Placement (Sandwich Year)<br>
   Building production-quality AI systems across Computer Vision, NLP, Big Data & Generative AI
 </p>
 
@@ -18,11 +18,11 @@
 
 ## 🤖 About Me
 
-- 🎓 MSc AI & Data Science — Nottingham Trent University (2023–2024)
+- 🎓 MSc Artificial Intelligence — Nottingham Trent University (Sep 2025 – Sep 2026, Expected)
 - 🔭 Currently building production AI systems and deploying them to the cloud
-- 🌍 Based in the UK — open to Junior ML Engineer / AI Engineer / Data Scientist roles
+- 🌍 Based in the UK — seeking a 12-month Industrial Placement (Sandwich Year) in ML Engineering / AI Engineering / Data Science / NLP
 - 💡 Passionate about LLMs, RAG pipelines, Computer Vision and real-world AI deployment
-- 📫 Open to work — let's connect on LinkedIn
+- 📫 Open to placement opportunities — let's connect on LinkedIn
 
 ---
 
@@ -60,7 +60,7 @@
 - Converted to ONNX for cross-platform production deployment
 - Real-time inference pipeline for manufacturing quality control
 
-🔗 [GitHub Repo](https://github.com/shahpratham00-collab)
+🔗 [GitHub Repo](https://github.com/shahpratham00-collab/defect-detection-cnn)
 
 ---
 
@@ -71,7 +71,7 @@
 - 91% accuracy on multi-class sentiment classification
 - Deployed as interactive Streamlit web app
 
-🔗 [Live App](https://sentiment-analyser-nlp-m5wbhmnnfoijsvapc24zft.streamlit.app/) · [GitHub Repo](https://github.com/shahpratham00-collab)
+🔗 [Live App](https://sentiment-analyser-nlp-m5wbhmnnfoijsvapc24zft.streamlit.app/) · [GitHub Repo](https://github.com/shahpratham00-collab/sentiment-analyser-nlp)
 
 ---
 
@@ -121,6 +121,6 @@
 ---
 
 <p align="center">
-  <i>Open to Junior ML Engineer · AI Engineer · Data Scientist roles in the UK</i><br>
+  <i>Seeking a 12-Month Industrial Placement (Sandwich Year) — ML Engineer · AI Engineer · Data Scientist · NLP</i><br>
   <b>Let's build something great together 🚀</b>
 </p>
